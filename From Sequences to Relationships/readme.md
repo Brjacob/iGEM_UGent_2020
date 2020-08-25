@@ -1,1 +1,3 @@
-# Read me
+# Readme
+
+The requirements are available per tutorial
