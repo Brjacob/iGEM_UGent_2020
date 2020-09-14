@@ -1,3 +1,3 @@
 # Readme
 
-The documents are available per tutorial
+All files are available per tutorial
